@@ -21,8 +21,8 @@
 1. 克隆仓库：
 
     ```bash
-    git clone https://github.com/yourusername/mbti-test.git
-    cd mbti-test
+    git clone https://github.com/shuangjie/mbti.git
+    cd mbti
     ```
 
 2. 安装依赖项：
