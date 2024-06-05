@@ -36,4 +36,4 @@
 要在本地运行应用程序，请使用以下命令：
 
 ```bash
-pnpm serve
+pnpm run dev
