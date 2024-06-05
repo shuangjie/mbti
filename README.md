@@ -1,4 +1,4 @@
-# MBTI 人格类型测试
+# MBTI 性格类型测试
 
 这是一个使用 Vue 3 和 Vuetify 构建的简单 MBTI 测试应用程序。用户可以通过回答一系列问题来获得他们的 MBTI 类型。
 ![首页](https://github.com/shuangjie/mbti/raw/main/img4readme/view.jpg)
@@ -36,4 +36,4 @@
 要在本地运行应用程序，请使用以下命令：
 
 ```bash
-pnpm serve
+pnpm run dev
